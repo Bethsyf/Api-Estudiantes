@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "documento": 1234,
+            "nombres": "David",
+            "apellidos": "Herrera",
+            "telefono": 2456788,
+            "celular": 3167890087,
+            "direccion": "CR 65 #67 89",
+            "imagen": "https://res.cloudinary.com/duzf4vfki/image/upload/v1630271947/Clases/WhatsApp_Image_2021-08-28_at_10.26.49_AM_zy2rze.jpg"
+        },
+        {
+            "id": 2,
+            "documento": 1235,
+            "nombres": "David",
+            "apellidos": "Herrera",
+            "telefono": 2456788,
+            "celular": 3167890087,
+            "direccion": "CR 65 #67 89",
+            "imagen": "https://res.cloudinary.com/duzf4vfki/image/upload/v1630271947/Clases/WhatsApp_Image_2021-08-28_at_10.26.49_AM_zy2rze.jpg"
+        },
+        {
+            "id": 3,
+            "documento": 1236,
+            "nombres": "Jorge",
+            "apellidos": "Díaz",
+            "telefono": 2456788,
+            "celular": 3167890087,
+            "direccion": "CR 65 #67 89",
+            "imagen": "https://res.cloudinary.com/duzf4vfki/image/upload/v1630271947/Clases/WhatsApp_Image_2021-08-28_at_10.26.49_AM_zy2rze.jpg"
+        },
+        {
+            "id": 4,
+            "documento": 1237,
+            "nombres": "Andrés",
+            "apellidos": "Cagua",
+            "telefono": 2456788,
+            "celular": 3167890087,
+            "direccion": "CR 65 #67 89",
+            "imagen": "https://res.cloudinary.com/duzf4vfki/image/upload/v1630271947/Clases/WhatsApp_Image_2021-08-28_at_10.26.49_AM_zy2rze.jpg"
+        }
+    ]
+}
